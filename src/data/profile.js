@@ -8,7 +8,7 @@ const ProfileData = {
     "AWS Certified Solutions Architect passionate about scalable solutions and clean code.",
   ],
   resume:
-    "https://drive.google.com/file/d/1q2NqdxtyjqPRiiYMj0jbm_6qdNZhB2sY/view?usp=sharing", 
+    "https://drive.google.com/file/d/13CtZoj2k26J-rZNLAVZIALj-XJrpeqlT/view?usp=sharing", 
 };
 
 export default ProfileData;

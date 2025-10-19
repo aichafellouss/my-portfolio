@@ -7,7 +7,7 @@ const ContactData = {
   address: "Fnideq-Tetouan, Morocco",
   links: [
     {
-      url: "https://github.com/matheus-silveira7714",
+      url: "https://github.com/aichafellouss",
       icon: FaGithub,
     },
     // {
@@ -15,21 +15,21 @@ const ContactData = {
     //   icon: FaLinkedin,
     // },
     {
-      url: "https://discordapp.com/users/alpha_0213",
+      url: "https://discordapp.com/users/hibara10",
       icon: FaDiscord,
     },
     {
-      url: "https://tgt.me/alpha_0213",
+      url: "https://tgt.me/",
       icon: FaTelegram,
     }
-    // {
-    //   url: "https://www.instagram.com/",
-    //   icon: FaInstagram,
-    // },
-    // {
-    //   url: "https://twitter.com/",
-    //   icon: FaXTwitter,
-    // },
+    {
+      url: "https://www.instagram.com/",
+      icon: FaInstagram,
+    },
+    {
+      url: "https://twitter.com/",
+      icon: FaXTwitter,
+    },
   ],
 };
 

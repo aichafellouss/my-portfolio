@@ -21,7 +21,7 @@ const ContactData = {
     {
       url: "https://tgt.me/",
       icon: FaTelegram,
-    }
+    },
     {
       url: "https://www.instagram.com/",
       icon: FaInstagram,
